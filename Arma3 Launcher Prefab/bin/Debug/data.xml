@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Presets>
+  <Preset>
+    <Name>test</Name>
+    <test>@test</test>
+  </Preset>
+  <Preset>
+    <Name>test2</Name>
+    <test2>@test2</test2>
+  </Preset>
+  <Preset>
+    <Name>test5</Name>
+    <test5>@test6</test5>
+  </Preset>
+  <Preset>
+    <Name>a</Name>
+    <a>a</a>
+  </Preset>
+  <Preset>
+    <Name>b</Name>
+    <b>b</b>
+  </Preset>
+  <Preset>
+    <Name>b</Name>
+    <b>b</b>
+  </Preset>
+  <Preset>
+    <Name>test3</Name>
+    <test3>@test3</test3>
+  </Preset>
+  <Preset>
+    <Name>bernat</Name>
+    <bernat>@bernat,@bernat2</bernat>
+  </Preset>
+</Presets>

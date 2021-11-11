@@ -1,0 +1,16 @@
+C:\Users\eniorJR\source\repos\Arma3 Launcher Prefab\Arma3 Launcher Prefab\bin\Release\Arma3 Launcher Prefab.exe.config
+C:\Users\eniorJR\source\repos\Arma3 Launcher Prefab\Arma3 Launcher Prefab\bin\Release\Arma3 Launcher Prefab.exe
+C:\Users\eniorJR\source\repos\Arma3 Launcher Prefab\Arma3 Launcher Prefab\bin\Release\Arma3 Launcher Prefab.pdb
+C:\Users\eniorJR\source\repos\Arma3 Launcher Prefab\Arma3 Launcher Prefab\obj\Release\Arma3 Launcher Prefab.csprojAssemblyReference.cache
+C:\Users\eniorJR\source\repos\Arma3 Launcher Prefab\Arma3 Launcher Prefab\obj\Release\Arma3_Launcher_Prefab.Form1.resources
+C:\Users\eniorJR\source\repos\Arma3 Launcher Prefab\Arma3 Launcher Prefab\obj\Release\Arma3_Launcher_Prefab.Form2.resources
+C:\Users\eniorJR\source\repos\Arma3 Launcher Prefab\Arma3 Launcher Prefab\obj\Release\Arma3_Launcher_Prefab.Properties.Resources.resources
+C:\Users\eniorJR\source\repos\Arma3 Launcher Prefab\Arma3 Launcher Prefab\obj\Release\Arma3 Launcher Prefab.csproj.GenerateResource.cache
+C:\Users\eniorJR\source\repos\Arma3 Launcher Prefab\Arma3 Launcher Prefab\obj\Release\Arma3 Launcher Prefab.csproj.CoreCompileInputs.cache
+C:\Users\eniorJR\source\repos\Arma3 Launcher Prefab\Arma3 Launcher Prefab\obj\Release\Arma3 Launcher Prefab.exe
+C:\Users\eniorJR\source\repos\Arma3 Launcher Prefab\Arma3 Launcher Prefab\obj\Release\Arma3 Launcher Prefab.pdb
+C:\Users\eniorJR\source\repos\Arma3 Launcher Prefab\Arma3 Launcher Prefab\bin\Release\Arma3 Launcher Prefab.exe.manifest
+C:\Users\eniorJR\source\repos\Arma3 Launcher Prefab\Arma3 Launcher Prefab\bin\Release\Arma3 Launcher Prefab.application
+C:\Users\eniorJR\source\repos\Arma3 Launcher Prefab\Arma3 Launcher Prefab\obj\Release\Arma3 Launcher Prefab.TrustInfo.xml
+C:\Users\eniorJR\source\repos\Arma3 Launcher Prefab\Arma3 Launcher Prefab\obj\Release\Arma3 Launcher Prefab.exe.manifest
+C:\Users\eniorJR\source\repos\Arma3 Launcher Prefab\Arma3 Launcher Prefab\obj\Release\Arma3 Launcher Prefab.application
